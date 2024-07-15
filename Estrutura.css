@@ -1,0 +1,13 @@
+fastapi_healthcare/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   ├── database.py
+│   ├── exceptions.py
+│   ├── pagination.py
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
